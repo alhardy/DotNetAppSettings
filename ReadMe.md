@@ -1,0 +1,1 @@
+Better approach to accessing application config values by allowing app settings to be represented as a POCO and injected when needed rather than relying on some type ConfigurationManager helper or a having dependency on ConfigurationManager.
